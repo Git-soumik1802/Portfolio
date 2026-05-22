@@ -1,71 +1,189 @@
-# Getting Started with Create React App
+# ✨ 3D Portfolio Website
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1e5c110c-b435-4fcb-900f-377a1d8f82f7" />
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A modern and responsive 3D developer portfolio built using React.js, Three.js, Styled Components, and Framer Motion. The portfolio showcases projects, skills, experience, education, and social profiles with smooth animations and an interactive UI.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+# 🚀 Live Demo
 
-### `npm start`
+🔗 https://portfolio-1-yq9q.onrender.com/
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# 📂 GitHub Repository
 
-### `npm test`
+🔗 https://github.com/Git-soumik1802/Portfolio
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+# 🛠️ Tech Stack
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Frontend
+- React.js
+- JavaScript
+- HTML5
+- CSS3
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## UI & Animation
+- Three.js
+- React Three Fiber
+- React Three Drei
+- Framer Motion
+- Styled Components
+- Material UI
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Additional Libraries
+- React Router DOM
+- React Tilt
+- Typewriter Effect
+- React Vertical Timeline
 
-### `npm run eject`
+## Deployment
+- Render
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# ✨ Features
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- Interactive 3D animations
+- Responsive modern UI
+- Project showcase section
+- Skills & experience timeline
+- Education section
+- Contact & social links
+- Smooth transitions and effects
+- Mobile friendly design
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
+# 📁 Project Structure
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```bash
+3d-portfolio-website/
+│
+├── public/
+├── src/
+│   ├── components/
+│   ├── images/
+│   ├── data/
+│   ├── App.js
+│   └── index.js
+│
+├── package.json
+├── README.md
+└── tailwind.config.js
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
 
-### Code Splitting
+# ⚙️ Installation
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 1️⃣ Clone Repository
 
-### Analyzing the Bundle Size
+```bash
+git clone https://github.com/Git-soumik1802/Portfolio.git
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+---
 
-### Making a Progressive Web App
+## 2️⃣ Open Project
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+```bash
+cd Portfolio
+```
 
-### Advanced Configuration
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## 3️⃣ Install Dependencies
 
-### Deployment
+```bash
+npm install --legacy-peer-deps
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+---
 
-### `npm run build` fails to minify
+## 4️⃣ Run Development Server
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-"# Portfolio" 
+```bash
+npm start
+```
+
+Open:
+
+```bash
+http://localhost:3000
+```
+
+---
+
+# 🏗️ Production Build
+
+```bash
+npm run build
+```
+
+---
+
+# 🌐 Deployment
+
+This project is deployed using Render.
+
+## Render Static Site Settings
+
+### Build Command
+
+```bash
+npm install --legacy-peer-deps && npm run build
+```
+
+### Publish Directory
+
+```bash
+build
+```
+
+---
+
+# 📦 Main Dependencies
+
+```json
+react
+three
+@react-three/fiber
+@react-three/drei
+framer-motion
+styled-components
+react-router-dom
+react-tilt
+@mui/material
+```
+
+---
+
+# 👨‍💻 Developer
+
+## Soumik Nandi
+
+- B.Tech Information Technology
+- MERN Stack Developer
+- Python Developer
+- Software Engineering Enthusiast
+
+### 🔗 LinkedIn
+https://www.linkedin.com/in/soumik-nandi-b48a0922a/
+
+### 🔗 GitHub
+https://github.com/Git-soumik1802
+
+---
+
+# 📄 License
+
+This project is developed for portfolio and educational purposes.
+
+---
+
+# ⭐ Support
+
+If you like this project, give it a ⭐ on GitHub.
